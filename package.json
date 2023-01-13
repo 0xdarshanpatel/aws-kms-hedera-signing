@@ -1,0 +1,27 @@
+{
+  "name": "aws-kms-hedera-signing",
+  "version": "1.0.0",
+  "description": "JavaScript-based example of ECDSA signing a Hedera transaction with AWS KMS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xdarshanpatel/aws-kms-hedera-signing.git"
+  },
+  "author": "Darshan Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xdarshanpatel/aws-kms-hedera-signing/issues"
+  },
+  "homepage": "https://github.com/0xdarshanpatel/aws-kms-hedera-signing#readme",
+  "dependencies": {
+    "@aws-sdk/client-kms": "^3.245.0",
+    "@hashgraph/sdk": "^2.19.1",
+    "asn1.js": "^5.4.1",
+    "dotenv": "^16.0.3",
+    "elliptic": "^6.5.4",
+    "keccak256": "^1.0.6"
+  }
+}
