@@ -2,6 +2,9 @@
 
 This repo contains the code to demonstrate how to use AWS KMS to sign transactions for Hedera Blockchain.
 
+## Medium
+Please see my [medium article](https://0xdarshanpatel.medium.com/signing-hedera-transactions-with-aws-kms-in-javascript-df6563faa697) for a detailed code walk-through. 
+
 ## Prerequisite
 
 1. AWS account with access key id and secret key - please check out this [link](https://aws.amazon.com/premiumsupport/knowledge-center/create-access-key/) to learn how to create access key id and secret key.
