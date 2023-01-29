@@ -30,8 +30,8 @@ if the code run successfully, you should see something similar to the following 
 
 ```
 Creating a new account
-The new account ID is: 0.0.49290321
-0.0.49290321 balance:  1 ℏ
+The new account ID is: 0.0.1140728
+0.0.1140728 balance:  1 ℏ
 Signing transaction in transactionSigner
 Signing transaction in transactionSigner
 Signing transaction in transactionSigner
@@ -40,6 +40,6 @@ Signing transaction in transactionSigner
 Signing transaction in transactionSigner
 Signing transaction in transactionSigner
 The transfer transaction from my account to the new account was: SUCCESS
-Check transaction here: https://hashscan.io/#/testnet/transaction/0.0.49290321-1673604128-314742574
+Check transaction here: https://hashscan.io/#/testnet/transaction/0.0.1140728-1675003430.206231332
 Done
 ```
